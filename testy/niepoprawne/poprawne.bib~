@@ -1,0 +1,29 @@
+@Book{ informatyczne13,
+author = Stevent,
+title = "Dlaczego ja?",
+year = 1825,
+publisher = "KI AGH" 
+}
+
+@Book{ informatyczne15,
+author = Stevent,
+title = "Dlaczego ja?",
+year = 1825,
+publisher = "KI AGH" 
+}
+
+@inproceedings{ muzyczne2,
+author = "Fryderyk Chopin",
+title = "Nutki i nuty               ",
+booktitle = "Wspaniale Dziela",
+YEAR = 1880,
+pages = 35
+}
+
+@MISC{ wypieki,
+author = "Robert Maklowicz",
+title = Pysznosci    ,
+year = "2000 ",
+note = "najlepszy przepis na babeczki"
+}
+
